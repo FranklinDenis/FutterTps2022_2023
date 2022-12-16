@@ -7,4 +7,6 @@ ce repository contient les projets suivant :
 -MagicBool quizller TP5
 -xylophone TP6
 -BMi TP7
+-Weather App(climatApp ) Tp8
+
 pour demmarrez les projets flutter vous devez faire la commande flutter run 
